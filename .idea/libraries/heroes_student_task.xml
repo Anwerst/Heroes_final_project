@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="heroes_student_task">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Собранный JAR-файл/heroes_student_task.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
